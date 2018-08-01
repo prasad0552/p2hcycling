@@ -1,0 +1,1526 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GymBase\n"
+"POT-Creation-Date: 2013-10-14 14:13+0100\n"
+"PO-Revision-Date: 2013-10-14 14:13+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\lideon\\wp-content\\themes"
+"\\gymbase-7.1-dev\n"
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/404.php:10
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/404.php:11
+msgid "Sorry, but you are looking for something that isn't here"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-form.php:8
+msgid "Leave a reply"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-form.php:23
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-functions.php:9
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-functions.php:68
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:10
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:41
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:92
+msgid "Your name"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-form.php:26
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-functions.php:9
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-functions.php:70
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:13
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:41
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:94
+msgid "Your email"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-form.php:29
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-functions.php:27
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:16
+msgid "Website (optional)"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-form.php:34
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-functions.php:9
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-functions.php:72
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:21
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:41
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:96
+msgid "Message"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-form.php:36
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:23
+msgid "Send"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-form.php:37
+msgid "Cancel reply"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-functions.php:37
+msgid "Your comment has been added"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-functions.php:62
+msgid "Error while adding comment"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-functions.php:69
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:93
+msgid "Please enter your name"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-functions.php:71
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:95
+msgid "Please enter valid e-mail"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments-functions.php:73
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:97
+msgid "Please enter your message"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments.php:12
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/search.php:49
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/search.php:50
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/single.php:42
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/single.php:43
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/template-blog.php:74
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/template-blog.php:75
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/shortcodes/latest_news.php:32
+msgid "Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments.php:12
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/shortcodes/latest_news.php:32
+msgid "Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments.php:70
+msgid "Posted by "
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments.php:71
+msgid " on"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments.php:72
+#, php-format
+msgid " %1$s at %2$s"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments.php:73
+msgid "(Edit)"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments.php:76
+msgid "Show comment"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments.php:77
+msgid "in reply to "
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments.php:84
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/comments.php:85
+msgid "Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:82
+msgid "Thank you for contact us"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/contact_form.php:86
+msgid "Sorry, we can't send this message"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/functions.php:137
+msgid "Blog post thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/functions.php:138
+msgid "Gallery image"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/functions.php:139
+msgid "Gallery thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/functions.php:140
+msgid "Small thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/meta-box.php:8
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/meta-box.php:16
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:139
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:43
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-trainers.php:42
+msgid "Options"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/meta-box.php:43
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/meta-box.php:94
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:339
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:67
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-trainers.php:63
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:97
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:128
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:166
+msgid "Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/meta-box.php:54
+msgid "Blog categories"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/meta-box.php:68
+msgid "Blog order"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/meta-box.php:72
+msgid "ascending"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/meta-box.php:73
+msgid "descending"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/page.php:18
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/search.php:18
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/single-classes.php:18
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/single-trainers.php:18
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/single.php:19
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/template-blog.php:34
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/template-full-width.php:21
+msgid "You are here:"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/page.php:20
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/page.php:21
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/search.php:20
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/search.php:21
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/single-classes.php:20
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/single-classes.php:21
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/single-trainers.php:20
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/single-trainers.php:21
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/single.php:21
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/single.php:22
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/template-blog.php:36
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/template-blog.php:37
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/template-full-width.php:23
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/template-full-width.php:24
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:12
+msgid "Add New Class"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:13
+msgid "Edit Class"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:14
+msgid "New Class"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:15
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:204
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/shortcodes/timetable.php:19
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/shortcodes/timetable.php:23
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/shortcodes/timetable.php:24
+msgid "All Classes"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:16
+msgid "View Class"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:17
+msgid "Search Class"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:18
+msgid "No classes found"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:19
+msgid "No classes found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:21
+msgid "Classes"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:132
+msgid "Class hours"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:214
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:277
+msgid "Tooltip"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:216
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:261
+msgid "Before hour text"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:218
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:269
+msgid "After hour text"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:220
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:288
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:350
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:562
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-trainers.php:19
+msgid "Trainers"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:222
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:310
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:232
+msgid "Day"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:243
+msgid "Start hour"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:252
+msgid "End hour"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:318
+msgid "Add"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:372
+msgid "Timetable box background color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:380
+msgid "Timetable box text color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:447
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:151
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-trainers.php:102
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-classes.php:110
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:221
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:448
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:152
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-trainers.php:103
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-weekdays.php:42
+msgid "Date"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:510
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-classes.php:64
+msgid "Details"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:511
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:567
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-classes.php:65
+msgid "Timetable"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-classes.php:557
+msgid "About"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:10
+msgid "Add New Gallery Item"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:11
+msgid "Edit Gallery Item"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:12
+msgid "New Gallery Item"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:13
+msgid "All Gallery Items"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:14
+msgid "View Gallery Item"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:15
+msgid "Search Gallery Item"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:16
+msgid "No gallery items found"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:17
+msgid "No gallery items found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:19
+msgid "Gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:75
+msgid "Video URL (optional)"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:84
+msgid "Ifame URL (optional)"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:92
+msgid "External URL (optional)"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:100
+msgid "External URL target"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:104
+msgid "same window"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:105
+msgid "new window"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:148
+msgid "Video URL"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:149
+msgid "Iframe URL"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-gallery.php:150
+msgid "External URL"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-trainers.php:10
+msgid "Add New Trainer"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-trainers.php:11
+msgid "Edit Trainer"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-trainers.php:12
+msgid "New Trainer"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-trainers.php:13
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-trainers.php:147
+msgid "All Trainers"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-trainers.php:14
+msgid "View Trainer"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-trainers.php:15
+msgid "Search Trainer"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-trainers.php:16
+msgid "No trainers found"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-trainers.php:17
+msgid "No trainers found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-weekdays.php:10
+msgid "Add New Day"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-weekdays.php:11
+msgid "Edit Day"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-weekdays.php:12
+msgid "New Day"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-weekdays.php:13
+msgid "All Weekdays"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-weekdays.php:14
+msgid "View Day"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-weekdays.php:15
+msgid "Search Weekdays"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-weekdays.php:16
+msgid "No weekdays found"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-weekdays.php:17
+msgid "No weekdays found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/post-type-weekdays.php:19
+msgid "Weekdays"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/search.php:8
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/search.php:28
+msgid "Search results"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/search.php:9
+msgid "The results for phrase:"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/search.php:73
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/single.php:68
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/template-blog.php:98
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/shortcodes/latest_news.php:45
+msgid "Posted by"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/search.php:80
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/single.php:75
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/template-blog.php:105
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/shortcodes/latest_news.php:52
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/search.php:88
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/template-blog.php:113
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/shortcodes/latest_news.php:59
+msgid "More"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/search.php:98
+msgid "No results found."
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/searchform.php:3
+msgid "Site search"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/template-blog.php:15
+msgid "Daily archives: "
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/template-blog.php:17
+msgid "Monthly archives: "
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/template-blog.php:19
+msgid "Yearly archives: "
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:384
+msgid "Options saved"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:426
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:494
+msgid "Main"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:432
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:545
+msgid "Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:438
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:663
+msgid "Contact Form"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:444
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:733
+msgid "Contact Details"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:450
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:768
+msgid "Colors"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:456
+msgid "General"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:461
+msgid "Text"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:466
+msgid "Buttons"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:471
+msgid "Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:476
+msgid "Forms"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:481
+msgid "Miscellaneous"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:488
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1250
+msgid "Fonts"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:497
+msgid "LOGO URL"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:500
+msgid "Insert logo"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:504
+msgid "LOGO FIRST PART TEXT"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:510
+msgid "LOGO SECOND PART TEXT"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:516
+msgid "FOOTER TEXT LEFT"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:522
+msgid "FOOTER TEXT RIGHT"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:528
+msgid "HOME PAGE TOP HINT"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:534
+msgid "RESPONSIVE"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:537
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:589
+msgid "yes"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:538
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:590
+msgid "no"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:555
+msgid "SLIDER IMAGE URL"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:558
+msgid "Browse"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:562
+msgid "SLIDER IMAGE TITLE"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:568
+msgid "SLIDER IMAGE SUBTITLE"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:574
+msgid "SLIDER IMAGE LINK"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:583
+msgid "Add slider image"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:586
+msgid "AUTOPLAY"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:595
+msgid "SLIDE INTERVAL:"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:601
+msgid "EFFECT:"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:604
+msgid "scroll"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:605
+msgid "none"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:606
+msgid "directscroll"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:607
+msgid "fade"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:608
+msgid "crossfade"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:609
+msgid "cover"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:610
+msgid "uncover"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:615
+msgid "TRANSITION:"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:618
+msgid "swing"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:619
+msgid "linear"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:620
+msgid "easeInQuad"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:621
+msgid "easeOutQuad"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:622
+msgid "easeInOutQuad"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:623
+msgid "easeInCubic"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:624
+msgid "easeOutCubic"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:625
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:626
+msgid "easeInOutCubic"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:627
+msgid "easeInQuart"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:628
+msgid "easeOutQuart"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:629
+msgid "easeInOutQuart"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:630
+msgid "easeInSine"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:631
+msgid "easeOutSine"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:632
+msgid "easeInOutSine"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:633
+msgid "easeInExpo"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:634
+msgid "easeOutExpo"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:635
+msgid "easeInOutExpo"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:636
+msgid "easeInQuint"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:637
+msgid "easeOutQuint"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:638
+msgid "easeInOutQuint"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:639
+msgid "easeInCirc"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:640
+msgid "easeOutCirc"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:641
+msgid "easeInOutCirc"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:642
+msgid "easeInElastic"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:643
+msgid "easeOutElastic"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:644
+msgid "easeInOutElastic"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:645
+msgid "easeInBack"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:646
+msgid "easeOutBack"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:647
+msgid "easeInOutBack"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:648
+msgid "easeInBounce"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:649
+msgid "easeOutBounce"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:650
+msgid "easeInOutBounce"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:655
+msgid "TRANSITION SPEED:"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:664
+msgid "ADMIN EMAIL CONFIG"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:667
+msgid "NAME"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:673
+msgid "EMAIL"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:679
+msgid "ADMIN SMTP CONFIG (OPTIONAL)"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:682
+msgid "HOST"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:688
+msgid "USERNAME"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:694
+msgid "PASSWORD"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:700
+msgid "PORT"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:706
+msgid "SMTP SECURE"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:710
+msgid "ssl"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:711
+msgid "tls"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:716
+msgid "EMAIL CONFIG"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:719
+msgid "EMAIL SUBJECT"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:725
+msgid "TEMPLATE"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:736
+msgid "CONTACT LOGO FIRST PART TEXT"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:742
+msgid "CONTACT LOGO SECOND PART TEXT"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:748
+msgid "CONTACT PHONE"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:754
+msgid "CONTACT FAX"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:760
+msgid "CONTACT EMAIL"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:770
+msgid "GENERAL"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:773
+msgid "Header background color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:780
+msgid "Body background color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:787
+msgid "Footer background color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:794
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:958
+msgid "Link color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:801
+msgid "Link hover color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:810
+msgid "TEXT"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:813
+msgid "Body headers color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:820
+msgid "Body headers border color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:824
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:853
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:969
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:984
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:999
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1054
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1062
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1096
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1104
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1168
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1176
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1184
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1192
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1200
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1208
+msgid "Enter 'none' for no border"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:828
+msgid "Body text color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:835
+msgid "Body text 2 color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:842
+msgid "Footer headers color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:849
+msgid "Footer headers border color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:857
+msgid "Footer text color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:864
+msgid "Timeago label color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:871
+msgid "Sentence color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:878
+msgid "Logo first part text color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:885
+msgid "Logo second part text color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:894
+msgid "BUTTONS"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:897
+msgid "Body button text color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:904
+msgid "Body button text hover color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:911
+msgid "Body button border color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:918
+msgid "Body button border hover color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:925
+msgid "Footer button text color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:932
+msgid "Footer button text hover color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:939
+msgid "Footer button border color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:946
+msgid "Footer button border hover color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:955
+msgid "MENU"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:965
+msgid "Link border color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:973
+msgid "Active color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:980
+msgid "Active border color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:988
+msgid "Hover color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:995
+msgid "Hover border color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1003
+msgid "Submenu background color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1010
+msgid "Submenu hover background color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1017
+msgid "Submenu link color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1024
+msgid "Submenu hover link color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1033
+msgid "FORMS"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1036
+msgid "Form hint color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1043
+msgid "Form field text color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1050
+msgid "Form field border color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1058
+msgid "Form field active border color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1068
+msgid "MISCELLANEOUS"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1071
+msgid "Date box background color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1078
+msgid "Date box text color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1085
+msgid "Date box comments number text color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1092
+msgid "Date box comments number border color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1100
+msgid "Date box comments number hover border color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1108
+msgid "Gallery box color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1115
+msgid "Gallery box text first line color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1122
+msgid "Gallery box text second line color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1129
+msgid "Gallery box hover color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1136
+msgid "Gallery box hover text first line color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1143
+msgid "Gallery box hover text second line color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1150
+msgid "Timetable box color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1157
+msgid "Timetable box hover color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1164
+msgid "Gallery details box border color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1172
+msgid "Bread crumb border color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1180
+msgid "Accordion item border color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1188
+msgid "Accordion item border hover color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1196
+msgid "Accordion item border active color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1204
+msgid "Copyright area border color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1212
+msgid "Top hint background color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1219
+msgid "Top hint text color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1226
+msgid "Comment reply button color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1233
+msgid "Post author link color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1240
+msgid "Contact details box background color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1253
+msgid "Header font"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1256
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1289
+msgid "Default"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/theme-options.php:1286
+msgid "Subheader font"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/shortcodes/accordion.php:37
+msgid "Attribute id is required. For example [accordion_item id='item-1']"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/shortcodes/shortcodes.php:89
+msgid "Show all"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/shortcodes/tabs.php:39
+msgid "Attribute id is required. For example [tab id='tab-1']"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/shortcodes/tabs.php:58
+msgid "Attribute id is required. For example [tab_content id='tab-1']"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/shortcodes/timetable.php:306
+msgid "Click on the class name to get additional info"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-classes.php:12
+msgid "Classes Accordion"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-classes.php:99
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-contact-details.php:131
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:85
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:120
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-scrolling-most-commented.php:94
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-scrolling-most-viewed.php:93
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-scrolling-recent-posts.php:86
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-social-icons.php:85
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-twitter.php:102
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:158
+msgid "Title"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-classes.php:103
+msgid "Order"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-classes.php:105
+msgid "ASC"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-classes.php:106
+msgid "DESC"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-classes.php:124
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:199
+msgid "Classes Page"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-classes.php:146
+msgid "Timetable Page"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-contact-details.php:13
+msgid "Contact Details Box"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-contact-details.php:135
+msgid "address_line_1"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-contact-details.php:139
+msgid "address_line_2"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-contact-details.php:143
+msgid "address_line_3"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-contact-details.php:147
+msgid "contact_line_1"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-contact-details.php:151
+msgid "contact_line_2"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-contact-details.php:155
+msgid "contact_line_3"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-contact-details.php:163
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-social-icons.php:93
+msgid "Icon type"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:13
+msgid "Footer Box"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:89
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:124
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:162
+msgid "Title color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:93
+msgid "Url"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:101
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:132
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:170
+msgid "Subtitle color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:105
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:136
+msgid "Color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:107
+msgid "super_light_green"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:108
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:139
+msgid "light_green"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:109
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:140
+msgid "green"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:111
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:143
+msgid "or pick custom one: "
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:115
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:147
+msgid "Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:118
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:150
+msgid "calendar"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:119
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:151
+msgid "hand"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:120
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:152
+msgid "note"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-footer-box.php:121
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:153
+msgid "phone"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:13
+msgid "Home Box"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:138
+msgid "white"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:141
+msgid "dark"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:157
+msgid "Type"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:159
+msgid "normal"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:160
+msgid "sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:164
+msgid "Content"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:168
+msgid "Content text color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:172
+msgid "Button url"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-home-box.php:176
+msgid "Button label"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-scrolling-most-commented.php:12
+msgid "Scrolling Most Commented Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-scrolling-most-commented.php:98
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-scrolling-most-viewed.php:97
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-scrolling-recent-posts.php:90
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-twitter.php:110
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:174
+msgid "Count"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-scrolling-most-viewed.php:12
+msgid "Scrolling Most Viewed Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-scrolling-recent-posts.php:12
+msgid "Scrolling Recent Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-social-icons.php:13
+msgid "Social Icons"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-twitter.php:13
+msgid "Twitter Feed"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-twitter.php:106
+msgid "Login"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-twitter.php:114
+msgid "Consumer key"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-twitter.php:118
+msgid "Consumer secret"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-twitter.php:122
+msgid "Access token"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-twitter.php:126
+msgid "Access token secret"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:13
+msgid "Upcoming Classes"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:110
+msgid "No upcoming classes for today"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:178
+msgid "Mode"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:180
+msgid "24h"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:181
+msgid "12h"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:185
+msgid "Time from"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:187
+msgid "server"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:188
+msgid "database"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:192
+msgid "Timezone"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:194
+msgid "localtime"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:195
+msgid "utc"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:235
+msgid "Background color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:239
+msgid "Text color"
+msgstr ""
+
+#: C:\xampp\htdocs\lideon\wp-content\themes\gymbase-7.1-dev/widgets/widget-upcoming-classes.php:243
+msgid "Item border color"
+msgstr ""

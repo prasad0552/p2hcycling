@@ -1,0 +1,206 @@
+@charset "UTF-8 ";
+/* 
+	User Submitted Posts > CSS > HTML5 form
+	https://perishablepress.com/user-submitted-posts/
+	Complete list of CSS hooks for the submission form @ http://m0n.co/e
+*/
+div#user-submitted-posts {
+width:100%;
+font-size:11px;
+}
+
+div#user-submitted-posts fieldset {
+margin:10px 0;
+padding:0;
+border:0;
+}
+
+div#user-submitted-posts fieldset label {
+float:left;
+clear:both;
+width:70%;
+margin:0;
+padding:0;
+line-height:18px;
+}
+
+div#user-submitted-posts fieldset input.usp-input {
+float:left;
+clear:both;
+width:70%;
+margin:0;
+padding:5px;
+font-size:12px;
+}
+
+div#user-submitted-posts textarea.usp-textarea {
+float:left;
+clear:both;
+width:80%;
+margin:0;
+padding:5px;
+font-size:12px;
+}
+
+div#user-submitted-posts select {
+float:left;
+clear:both;
+width:auto;
+margin:0;
+padding:5px;
+font-size:12px;
+}
+
+div#user-submitted-image {
+float:left;
+clear:both;
+width:70%;
+}
+
+div#usp-upload-message {
+float:left;
+clear:both;
+width:70%;
+}
+
+div#usp-upload-message input[type='submit']
+{
+	float: left !important;
+	height: 36px;
+	margin-top: 10px;
+	cursor: pointer;
+	background-position: right center;
+	background-repeat: no-repeat;
+}
+
+
+a#usp_add-another {
+float:left;
+clear:both;
+}
+
+div#user-submitted-posts fieldset input.usp-input.usp-clone {
+width:90%;
+margin:0 0 5px 0;
+padding:4px;
+}
+
+div#usp-submit {
+margin:15px 0;
+}
+
+/* --- forms --- */
+.submission_form_container
+{
+	float: left;
+/*	margin-left: 110px; */
+	margin-top: 25px;
+}
+.submission_form,
+.submission_form
+{
+	float: left;
+	width: 100%;
+	margin-top: 30px;
+}
+.submission_form .left, .submission_form .right,
+.submission_form .left, .submission_form .right
+{
+	float: left;
+	width: 245px;
+}
+.submission_form .left, .submission_form .right
+{
+	width: 210px;
+}
+.submission_form .right, .submission_form .right
+{
+	float: right;
+}
+.submission_form input, .submission_form textarea,
+.submission_form input, .submission_form textarea
+{
+	background: transparent;
+	padding: 9px;
+	margin: 0;
+}
+.submission_form textarea,
+.submission_form textarea
+{
+	width: 225px;
+	height: 108px;
+}
+.submission_form textarea
+{
+	width: 210px;
+}
+.submission_form .block,
+.submission_form .block
+{
+	margin-top: 10px;
+}
+.submission_form .text_input
+{
+	width: 225px;
+}
+.submission_form .text_input
+{
+	width: 190px;
+}
+.submission_form .text_input:first-child,
+.submission_form .block:first-child
+{
+	margin-top: 0;
+}
+.submission_form input[type='submit'],
+.submission_form input[type='submit']
+{
+    border-color: #409915;
+    color: #fff;
+	float: left;
+	height: 36px;
+	margin-top: 10px;
+	cursor: pointer;
+	background-position: right center;
+	background-repeat: no-repeat;
+}
+/* JS > Parsley */
+.parsley-errors-list {
+list-style-type:none;
+float:left;
+clear:both;
+margin:0;
+padding:0;
+font-size:11px;
+line-height:18px;
+color:#fff;
+background-color:#cc3333;
+-webkit-transition:all 0.5s ease-in;
+-moz-transition:all 0.5s ease-in;
+-o-transition:all 0.5s ease-in;
+transition:all 0.5s ease-in;
+opacity:0;
+-moz-opacity:0;
+-webkit-opacity:0;
+}
+
+.parsley-errors-list.filled {
+opacity:1;
+}
+
+.parsley-required {
+margin:0;
+padding:2px 3px;
+}
+
+.usp-files-error {
+margin-top:-5px;
+}
+
+.usp-hidden,.usp-no-js {
+display:none;
+}
+
+.usp-js {
+display:block;
+}
